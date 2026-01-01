@@ -1,13 +1,12 @@
 # Enhancing Requirement Traceability through Data Augmentation Using Large Language Models
 
-This repository contains the experimental code for the paper **"Enhancing Requirement Traceability through Data Augmentation Using Large Language Models"**. The experiments demonstrate how data augmentation techniques can be used to enhance requirement traceability using large language models.
+This repository contains the experimental code for the paper **"Synergistic Enhancement of Requirement-to-Code Traceability: A Framework Combining Large Language Model based Data Augmentation and an Advanced Encoder"**. The experiments demonstrate how data augmentation techniques can be used to enhance requirement traceability using large language models.
 
 ## Repository Structure
 
 - **code/**: Contains the source code for data augmentation and requirement traceability experiments.
 - **datasets/**: Includes the datasets used for training and evaluation of the requirement traceability models.
 - **evaluate/**: Contains evaluation scripts to assess the performance of the models.
-- **images/**: Stores visual assets, such as diagrams and figures, used in the paper.
 - **result/**: Includes the output results, such as model predictions, metrics, and analysis.
 
 ## Running Environment
